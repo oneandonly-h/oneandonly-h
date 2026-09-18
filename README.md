@@ -1,4 +1,4 @@
-# Hi, I'm Haya 👋
+# Hi, I'm Haya Alammar 👋
 
 💻 CS student who enjoys turning ideas into things that actually work.
 
