@@ -24,7 +24,7 @@ A reaction-speed web game built from scratch with HTML, CSS & vanilla JavaScript
 
 🔗 [Play Tap or Flop](https://oneandonly-h.github.io/game-by-me/)
 
-## 🌙 Currently building
+🌙 Built as a small JavaScript practice project
 
 ### بأسمائه | Bi Asma'ihi
 
